@@ -1,0 +1,33 @@
+#id1{
+	width: 100%;
+}
+*{
+	background-image: url("./images/coffeetile.jpg");
+	font-family: arial;
+}
+#row{
+	display: flex;
+	justify-content: center;
+}
+#col{
+	padding-left: 100px;
+}
+h1{
+	color: chartreuse;
+	text-align: center;
+}
+marquee{
+	color: yellow;
+}
+#col1{
+	width: 15%;
+}
+#col2{
+	width: 35%;
+}
+h3{
+	color: aliceblue;
+}
+p{
+	color: bisque;
+}
